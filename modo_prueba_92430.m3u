@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (480p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="General",Venezolana de Televisión (480p)
-https://live-b.cf.dmcdn.net/sec2(4HYa_1AABaQmQ9E-BuyGy-bWNepmRzCT0XO3xafjk2jTrIimKRN2KG2VdRFbBOzKf1PfP6Zzg2DiXAz6ZCwkXIwS1mD3MlXu0eME4fF9AfftPfISzQqE2weOffULq9Bb)/dm/3/x930kre/d/live-380.m3u8
+https://live-c.cf.dmcdn.net/sec2(l8vfKjdxsjmvcAanl9gv3RNhKVaLVhTIecx-SHi0BM05h1H808amosZPnO0w_W9QanxnlMr0aB-eAMvwVQn-xcxFqiO_DRxKxed3oxo_1IxmmJW-erUZHIHmiXlV0-R7)/dm/3/x930kre/d/live-240.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (480p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
