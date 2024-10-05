@@ -61,7 +61,7 @@ https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LGDTelevision.ve" tvg-name="LGD Televisión" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" group-title="Religious",LGD TV (480p)
 https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" tvg-logo="https://images.app.goo.gl/BbGguvVgyJ5XthQ1A" group-title="General",Isla TV (480p)
+#EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" tvg-logo="https://avatars.sched.co/b/ab/6686359/avatar.jpg?a11" group-title="General",Isla TV (480p)
 https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
 #EXTINF:-1 tvg-id="Panavision.ve" tvg-name="Panavision" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="Music",Panavision (1080p)
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
