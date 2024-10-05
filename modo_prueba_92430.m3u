@@ -11,8 +11,6 @@ https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
 https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="General",TeleAragua (480p)
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
-#EXTINF:-1 tvg-id="TAMTV.ve" tvg-name="Televisora Andina de Mérida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV (240p)
-https://tv.webtuya.com:3459/live/tammeridalive.m3u8
 #EXTINF:-1 tvg-id="BarinasTV.ve" tvg-name="Barinas TV" tvg-logo="https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png" group-title="General",Barinas TV (720p) [Not 24/7]
 https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="General",Anzoátegui TV (360p)
