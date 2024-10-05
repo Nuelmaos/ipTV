@@ -4,7 +4,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="General",Venezolana de Televisión (480p)
 https://live-c.cf.dmcdn.net/sec2(AiwHWavInE4cN3lO3kYozVEtb4O8vwobfIL0AYq10EVIo2ZFXeOEB4COljtm9zzxdD6fRNg3UsSuF_QZ_hs7pgaTZVvCkXSQaCISWZUATtcTqPYoWs1hpWJidB2lBN24)/dm/3/x930kre/d/live-380.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (480p)
-https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_64Kb.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
 https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
 #EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TVFANB" tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="General",TV FANB (720p)
