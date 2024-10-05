@@ -33,7 +33,7 @@ https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 tvg-id="Telecolor.ve" tvg-name="Telecolor" tvg-logo="https://i.imgur.com/YvdzJHj.png" group-title="General",Telecolor (480p)
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-#EXTINF:-1 tvg-id="Teletuya.ve" tvg-name="TLT" tvg-logo="https://images.app.goo.gl/oc3jtTc1vpN8DZeS6" group-title="General",Tele Tuya (240p)
+#EXTINF:-1 tvg-id="Teletuya.ve" tvg-name="TLT" tvg-logo="https://es.wikipedia.org/wiki/La_Tele_Tuya#/media/Archivo:LOGO-HORIZONTAL_text.png" group-title="General",Tele Tuya (240p)
 https://live-b2.cf.dmcdn.net/sec2(qjs4SCTKyrM95TgYKD-bk7DZR3cOZ9CVGr36D9DQyGawqxwEDEFEjS6tANMyHMDhnJ2fyuWbQ9C_IgLK5cUbW2LLjlmwvg7I6JoafDyo0OkLHiQ-zbf9YaOgrfWON45R)/cloud/3/x8z1lwk/s/live-240.m3u8
 #EXTINF:-1 tvg-id="TRV.ve" tvg-name="TRV" tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" group-title="General",TRV (480p)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
