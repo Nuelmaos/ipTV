@@ -71,3 +71,5 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1136000_sleng.
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-name="Canal Diplomático" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" group-title="Culture",Canal Diplomático (720p) [Not 24/7]
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://images.app.goo.gl/wQUWWuPsXRmYSvvJ7" group-title="Sports", Motorvision TV (480p)
+https://stream.ads.ottera.tv/cl/241006cs1dpi3eh0bb3f997o8g/640x360_1126400_4_f.m3u8?i=475_757
