@@ -71,3 +71,5 @@ https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://www.deinsporttv.de/wp-content/uploads/2017/11/MVTV_Logo_2017_Black_Stacked_RGB.jpg" group-title="Sports", Motorvision TV (480p)
 https://stream.ads.ottera.tv/cl/241007cs1uv56p2pr2b4ckhqt0/640x360_1126400_4_f.m3u8?i=475_757
+#EXTINF:-1 tvg-id="CanelaDeportes2.mx" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a0221ad835e26b43c69c35e76f0cd052.webp" group-title="Sports", Canela Deportes 2 (480p)
+https://stream.ads.ottera.tv/cl/241007cs22b8eklri396qp7s7g/640x360_1126400_3_f.m3u8?i=475_5759
