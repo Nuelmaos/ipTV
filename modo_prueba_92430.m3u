@@ -39,8 +39,6 @@ https://live-b2.cf.dmcdn.net/sec2(zebMScJI67S3nXO5-j5VQi9GStlhMbOpcDLymtTeuOsQaj
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="Promar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",Promar TV (720p) [Not 24/7]
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="MonagasVision.ve" tvg-name="Monagas Visión" tvg-logo="https://i.imgur.com/yfgTa2d.png" group-title="General",Monagas Visión (720p) [Not 24/7]
-https://cloud2.streaminglivehd.com:1936/monagasvision/monagasvision/playlist.m3u8
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxígeno TV" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="Music",Oxigeno TV (720p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" group-title="General",Latina TV (480p)
