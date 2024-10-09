@@ -41,7 +41,7 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w2045076211.m3u8
 #EXTINF:-1 tvg-id="UniTV.ve" tvg-name="Uni TV" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="General",UNI TV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-#EXTINF:-1 tvg-id="InterTV.ve" tvg-name="Inter TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="Undefined",inter TV (480p)
+#EXTINF:-1 tvg-id="InterTV.ve" tvg-name="Inter TV" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="Music",inter TV (480p)
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TNORadio.ve" tvg-name="TNO Radio" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="General",TNO Radio (720p)
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
