@@ -15,10 +15,8 @@ https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="Catatumbo TV" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="General",Catatumbo TV (480p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-name="Televisora de Oriente" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="Music",Televisora de Oriente (406p)
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-name="Televisora de Oriente" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="Music",Televisora de Oriente (480p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="Music",Vepaco TV (720p)
-https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-name="BTA TV" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Music",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Táchira" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="General",Canal 21 Táchira (480p)
@@ -67,5 +65,7 @@ https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c42d2-666337fb76ca
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TVFANB" tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="HD",TV FANB (720p)
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1363910970.m3u8
-#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="HD",Anzoátegui TV (720p)
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="HD",Anzoátegui TV (1080p)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="HD",Vepaco TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
