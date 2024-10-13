@@ -62,7 +62,7 @@ https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c42d2-666337fb76ca
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="HD",TeleSUR HD (720p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVBRICS.ru" tvg-name="TV BRICS" tvg-logo="https://w1.pngwing.com/pngs/439/482/png-transparent-india-design-television-brics-television-channel-television-show-film-cable-television-russia.png" group-title="HD",TV BRICS HD (1080p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8https://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+https://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="HD",RT en Español HD (720p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="HD",Anzoátegui TV (1080p)
