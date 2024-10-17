@@ -66,7 +66,7 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="HD",RT en Español HD (720p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="HD",Anzoátegui TV (1080p)
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w209828138.m3u8
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="HD",Vepaco TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-name="BTA TV" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="HD",BTA TV (720p)
