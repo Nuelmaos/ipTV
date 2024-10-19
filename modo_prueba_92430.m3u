@@ -71,5 +71,5 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-name="BTA TV" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="HD",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxígeno TV" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="HD",Oxigeno TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OxigenoNetwork.ve" tvg-name="Oxigeno Network" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="HD",Oxigeno Network (720p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1306957844.m3u8
