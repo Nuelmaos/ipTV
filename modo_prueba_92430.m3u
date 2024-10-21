@@ -65,6 +65,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="HD",RT en Español HD (720p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal i" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="HD",Canal i (720p) [Not 24/7]
+https://vcp10.myplaytv.com/canali/canali/chunklist_w291914547.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="HD",Anzoátegui TV (1080p)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="HD",Vepaco TV (720p)
