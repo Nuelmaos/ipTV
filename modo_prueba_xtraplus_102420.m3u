@@ -115,3 +115,5 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Extra Channels - Latin America",Makao TV (720p)
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera América" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Extra Channels - World;Extra Channels - World News;News",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
