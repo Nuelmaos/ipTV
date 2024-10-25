@@ -75,3 +75,5 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="OxigenoNetwork.ve" tvg-name="Oxigeno Network" tvg-logo="https://www.oxigenonetwork.com.ve/img/logooxca.png" group-title="HD",Oxigeno Network (720p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1306957844.m3u8
+#EXTINF:-1 tvg-id="masnetwork.ve" tvg-name="Mas Network Televisión" tvg-logo="https://masnetwork.com.ve/wp-content/uploads/2019/01/xmas-netw-470x470.png.pagespeed.ic_.CXtjneejLe.png" group-title="Music",Mas Network Televisión (480p)
+http://204.157.96.12:25461/play/qouZrBRqisw6-KaJYNM6fIIobVGd6tURpgKPISfEUb6b37iwsmmUqi9mDcTpNFff/m3u8
