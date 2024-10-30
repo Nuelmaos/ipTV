@@ -7,8 +7,6 @@ https://live-b.cf.dmcdn.net/sec2(tWVFtwiRA3o7DqfqpdeHSHJ1Kvp8q1C2-okuWt6dboSTfR_
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1363910970.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (480p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
-#EXTINF:-1 tvg-id="RTenAudioEspanol" tvg-name="RT en Audio Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News;Radio",RT en Audio Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist_64Kb.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
 https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="General",TeleAragua (480p)
@@ -117,5 +115,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Extra Channels - Latin America",Makao TV (720p)
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenAudioEspanol" tvg-name="RT en Audio Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Radio",RT en Audio Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist_64Kb.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera América" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Extra Channels - World;News",Al Jazeera English
 https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
