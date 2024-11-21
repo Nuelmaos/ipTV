@@ -99,6 +99,8 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Extra Channels - Latin America",5TV Corrientes (720p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Extra Channels - Latin America;Educative",Educa TV (720p)
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-name="América Estéreo Guayaquíl" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Extra Channels - Latin America",América Estéreo Guayaquíl (480p) [Not 24/7]
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-name="RTV Total Yurimaguas" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="Extra Channels - Latin America;Extra Channels - Latin America News",RTV Total (Yurimaguas) (720p) [Not 24/7]
@@ -119,5 +121,5 @@ https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenAudioEspanol" tvg-name="RT en Audio Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Radio",RT en Audio Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_64Kb.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera América" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Extra Channels - World;News",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera América" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Extra Channels - World;News",Al Jazeera English (720p)
 https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
