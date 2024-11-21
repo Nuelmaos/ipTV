@@ -105,7 +105,7 @@ https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-name="RTV Total Yurimaguas" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="Extra Channels - Latin America;Extra Channels - Latin America News",RTV Total (Yurimaguas) (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-id="PrensaLatina.cu" tvg-name="Prensa Latina TV" tvg-logo="https://i.imgur.com/jbm2S9O.jpeg" group-title="Extra Channels - Latin America",Prensa Latina TV (360p)
+#EXTINF:-1 tvg-id="PrensaLatina.cu" tvg-name="Prensa Latina TV" tvg-logo="https://i.imgur.com/jbm2S9O.jpeg" group-title="Extra Channels - Latin America",Prensa Latina TV (1080p)
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" tvg-logo="https://i.imgur.com/I67WOgT.png" group-title="Extra Channels - Latin America",Arica TV (480p) [Not 24/7]
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
