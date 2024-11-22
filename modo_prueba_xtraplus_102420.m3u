@@ -63,6 +63,8 @@ https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c42d2-666337fb76ca
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVBRICS.ru" tvg-name="TV BRICS" tvg-logo="https://w1.pngwing.com/pngs/439/482/png-transparent-india-design-television-brics-television-channel-television-show-film-cable-television-russia.png" group-title="HD",TV BRICS HD (1080p)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN en Español" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="HD;News",CGTN en Español (720p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="HD",RT en Español HD (720p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal i" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="HD",Canal i (720p) [Not 24/7]
