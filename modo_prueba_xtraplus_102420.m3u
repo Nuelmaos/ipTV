@@ -111,8 +111,6 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" tvg-logo="https://i.imgur.com/I67WOgT.png" group-title="Extra Channels - Latin America",Arica TV (480p) [Not 24/7]
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="NGRadioTV.pr" tvg-name="NG Radio TV" tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" group-title="Extra Channels - Latin America",NG Radio TV (360p)
-https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Triunfo969FM.pr" tvg-name="Triunfo 969FM" tvg-logo="https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png" group-title="Extra Channels - Latin America",Triunfo 96.9 FM TV (360p)
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 #EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-name="ACS Network" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Extra Channels - Latin America",ACS Network (480p)
