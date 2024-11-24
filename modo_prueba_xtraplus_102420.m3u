@@ -95,7 +95,7 @@ https://live-utv.unah.edu.hn/web/salida.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="Telediez.ar" tvg-name="Telediez" tvg-logo="https://i.imgur.com/cm4NOuM.jpg" group-title="Extra Channels - Latin America",Telediez (480p) [Not 24/7]
 https://videohd.live:19360/8020/8020.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-name="Canal13LaRioja" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Extra Channels - Latin America",Canal 13 La Rioja (480p)
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-name="Canal13LaRioja" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Extra Channels - Latin America",Canal 13 La Rioja (720p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecondorSatelital.ar" tvg-name="Telecóndor Satelital" tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg" group-title="Extra Channels - Latin America",Telecóndor Satelital (480p) [Not 24/7]
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
