@@ -11,6 +11,8 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="General",TeleAragua (480p)
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="TVS.ve" tvg-name="Televisora Sindoni TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png" group-title="General",TVS (480p)
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w666009194.m3u8
 #EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Táchira" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="General",Canal 21 Táchira (480p)
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecolor.ve" tvg-name="Telecolor" tvg-logo="https://i.imgur.com/YvdzJHj.png" group-title="General",Telecolor (480p)
