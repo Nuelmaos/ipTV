@@ -59,6 +59,8 @@ https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
 https://7c8b579d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/163c29d9-eb8e-4c7b-afef-c38239915965/1.m3u8
 #EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/El-Garage-TV-en-VIVO-Online-1.png?resize=696%2C392&ssl=1" group-title="Sports",Garage TV (480p)
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="Sports",Red Bull TV (480p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="HD",TeleSUR HD (720p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVBRICS.ru" tvg-name="TV BRICS" tvg-logo="https://w1.pngwing.com/pngs/439/482/png-transparent-india-design-television-brics-television-channel-television-show-film-cable-television-russia.png" group-title="HD",TV BRICS HD (1080p)
