@@ -33,6 +33,8 @@ https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="Promar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",Promar TV (720p) [Not 24/7]
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.TV" tvg-name="Retro Plus TV" tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1730928546" group-title="Music",Retro Plus TV (480p)
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1765667634.m3u8
 #EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" group-title="General",Latina TV (480p)
 https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
 #EXTINF:-1 tvg-id="KandelaTV.ve" tvg-name="Kandela TV" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",Kandela TV (480p)
