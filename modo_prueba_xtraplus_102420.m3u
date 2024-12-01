@@ -49,7 +49,7 @@ https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LGDTelevision.ve" tvg-name="LGD Televisión" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" group-title="Religious",LGD TV (480p)
 https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Panavision.ve" tvg-name="Panavision" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="Music",Panavision (1080p)
+#EXTINF:-1 tvg-id="Panavision.ve" tvg-name="Panavision" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="Entertainment",Panavision (1080p)
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1563195636.m3u8
 #EXTINF:-1 tvg-id="Enlace (Costa Rica)" tvg-name="Enlace" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (Costa Rica) (480p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1136000_sleng.m3u8
