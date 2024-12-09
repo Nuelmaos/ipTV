@@ -99,8 +99,6 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-name="América Estéreo Guayaquíl" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Extra Channels - Latin America",América Estéreo Guayaquíl (480p) [Not 24/7]
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-name="RTV Total Yurimaguas" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="Extra Channels - Latin America;Extra Channels - Latin America News",RTV Total (Yurimaguas) (720p) [Not 24/7]
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-id="PrensaLatina.cu" tvg-name="Prensa Latina TV" tvg-logo="https://i.imgur.com/jbm2S9O.jpeg" group-title="Extra Channels - Latin America;Extra Channels - Latin America News;News",Prensa Latina TV (1080p)
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" tvg-logo="https://i.imgur.com/I67WOgT.png" group-title="Extra Channels - Latin America",Arica TV (480p) [Not 24/7]
