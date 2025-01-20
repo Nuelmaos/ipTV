@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (480p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="General",Venezolana de Televisión (480p)
-https://live-b.cf.dmcdn.net/sec2(CwNkxIniCNV1MdUAbighj6aeZgkphAEMStRI8NsrQBaZ8--zbYYlZUfiToRfTZHVRfpZ1PQsh63r4O_QUrK7lkV4E86K-Q47zsom4YVq90Z7OmCJqGNqTzQ0GZP4JAV4)/dm/3/x930kre/d/live-380.m3u8
+https://live-b.cf.dmcdn.net/sec2(rJPO0Vb9kQ8K0NBOsymJ44yt9XHkFjv4Au9RYg-pasHTImfqzGdOaOFm8WuwbjH_S7IbhCWeUjvb5d0mwut6GHwbmbu7aohCyOX4MuPa2J1MwDNukKcDCL8q-ndZyj-U)/dm/3/x930kre/d/live-380.m3u8
 #EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TVFANB" tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="General",TV FANB (480p)
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1363910970.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (480p)
