@@ -83,6 +83,8 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 #EXTINF:-1 tvg-id="ATV.co" tvg-name="ATV" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="Extra Channels - Latin America",ATV (720p) [Not 24/7]
 https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="Canal6Nicaragua.ni" tvg-name="Canal 6 Nicaragua" tvg-logo="https://canal6.com.ni/wp-content/uploads/2023/07/logo-blanco-ch6.png" group-title="Extra Channels - Latin America",Canal 6 Nicaragua (480p)
+https://live-c.cf.dmcdn.net/sec2(AZEKiJpieO3C9YW9ugGoqgAOBCvO_ISBpHBw8WHISJVi3Ni54YN-RnMotw6HGKnM0CGtw9Kn45RmgvlgL2h4GpkitMhXBmrl5MT7co30AkYglLj2zBHRfRFneeSiNk9D)/dm/3/x96x78e/s/live-480.m3u8
 #EXTINF:-1 tvg-id="UNAHUTV.hn" tvg-name="UNAH UTV" tvg-logo="https://i.imgur.com/GhzaYbK.png" group-title="Extra Channels - Latin America",UNAH UTV (480p) [Not 24/7]
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1 tvg-id="CincoTV.ar" tvg-name="Cinco TV" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Extra Channels - Latin America;Extra Channels - Latin America News",Cinco TV (480p)
