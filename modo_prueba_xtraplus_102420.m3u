@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (480p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="General",Venezolana de Televisión (480p)
 https://live-c.cf.dmcdn.net/sec2(bDR0xuHPNJCfLs_4ZRVb4CVYQSdixvkRzOsLu7dNy1d_VCdBgenCW9BzrmCFg4DpZdoPVo9_2AWfsR-xgfpl7xkAchS82CsvCXTUIu6d4zIFiYeq8v409k3_Gg2ut9Ir)/dm/3/x930kre/d/live-380.m3u8
 #EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TVFANB" tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="General",TV FANB (480p)
