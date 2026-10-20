@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (480p)
+https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
+https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
+#EXTINF:-1 tvg-id="TVBRICS.ru" tvg-name="TV BRICS" tvg-logo="https://w1.pngwing.com/pngs/439/482/png-transparent-india-design-television-brics-television-channel-television-show-film-cable-television-russia.png" group-title="HD",TV BRICS HD (1080p)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN en Español" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="HD;News",CGTN en Español (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="PrensaLatina.cu" tvg-name="Prensa Latina TV" tvg-logo="https://i.imgur.com/jbm2S9O.jpeg" group-title="HD;News",Prensa Latina TV (1080p)
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera América" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="HD;News",Al Jazeera English (720p)
+https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="HD",TeleSUR HD (720p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="HD",RT en Español HD (720p)
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="General",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="TVS.ve" tvg-name="Televisora Sindoni TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png" group-title="General",TVS (480p)
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w666009194.m3u8
+#EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Táchira" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="General",Canal 21 Táchira (480p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecolor.ve" tvg-name="Telecolor" tvg-logo="https://i.imgur.com/YvdzJHj.png" group-title="General",Telecolor (480p)
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve" tvg-name="Vale TV" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="General",Vale TV (480p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w2045076211.m3u8
+#EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" tvg-logo="https://avatars.sched.co/b/ab/6686359/avatar.jpg?a11" group-title="General",Isla TV (480p)
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
+#EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="Catatumbo TV" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="General",Catatumbo TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-name="Televisora de Oriente" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="Music",Televisora de Oriente (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="HD",Vepaco TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="Promar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",Promar TV (720p) [Not 24/7]
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve" tvg-name="Kandela TV" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",Kandela TV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="ReformaTV.ve" tvg-name="Reforma TV" tvg-logo="https://i.imgur.com/iZMDddR.png" group-title="Religious",Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/El-Garage-TV-en-VIVO-Online-1.png?resize=696%2C392&ssl=1" group-title="Sports",Garage TV (480p)
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" tvg-logo="https://logodix.com/logo/18135.png" group-title="Sports",Red Bull TV (480p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
